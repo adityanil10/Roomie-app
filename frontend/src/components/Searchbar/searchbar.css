@@ -1,0 +1,11 @@
+.bar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 540px;
+    align-items: center;
+    margin-top: -320px;
+  }
+ .smallbar{
+ width: 500px;
+ height: 30px;
+ }
